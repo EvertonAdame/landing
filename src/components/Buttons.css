@@ -1,0 +1,15 @@
+.featured--buttons {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.featured--watchbutton,
+.featured--mylistbutton {
+  display: inline-block;
+  font-weight: bold;
+  padding: 12px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-right: 10px;
+  opacity: 2;
+}
